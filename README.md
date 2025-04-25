@@ -1,7 +1,9 @@
 # Predicting Type 2 Diabetes with Machine Learning 👩🏼‍💻🩺💉
 
-Imagine a world where machines aren’t just tools, but partners in healthcare. 🧠  
-What if we could teach a machine to understand the subtle clues in a person’s health data and predict the onset of Type 2 diabetes before it's too late?  
+🧠 Imagine a world where machines aren’t just tools, but partners in healthcare.
+
+💡 What if we could teach a machine to understand the subtle clues in a person’s health data and predict the onset of Type 2 diabetes before it's too late?  
+
 In this project, we take a deep dive into the **Pima Indians** Diabetes Dataset, where we guide a machine to discover hidden patterns in health indicators, and ultimately teach it to predict whether someone is at risk for developing diabetes.
 
 The **Pima** are a Native American tribe originally from the Southwestern United States, mainly in Arizona. They are part of the larger Akimel O’odham group and have a rich cultural history tied to agriculture and river-based living. The women in this community have historically had higher birth rates, which is reflected in medical data such as this diabetes dataset.
